@@ -1,6 +1,6 @@
 # Quantum Monte Carlo for prudent valuation
 
- This jupyter notebook contains the code used to assess the feasibility and potential utility of QMC algorithms. The performance of the maximum likelihood quantum amplitude estimation (MLQAE) algorithm, a QMC variant, is compared against classical Monte Carlo (MC) simulations and the Black--Scholes formula for pricing European call options when dividends are unknown.
+ This jupyter notebook contains the code used to assess the feasibility and potential utility of quantum Monte Carlo (QMC) algorithms. The performance of the maximum likelihood quantum amplitude estimation (MLQAE) algorithm, a QMC variant, is compared against classical Monte Carlo (MC) simulations and the Black--Scholes formula for pricing European call options when dividends are unknown.
 
 
 ## Installation
